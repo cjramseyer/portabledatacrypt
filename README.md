@@ -1,2 +1,2 @@
 # portabledatacrypt
-Script supporting portable encrypted configuration data file
+Script to support protecting secrets for use in scripts
